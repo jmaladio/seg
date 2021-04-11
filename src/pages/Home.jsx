@@ -1,0 +1,1 @@
+export const Home = () => <div>This is our home page</div>
